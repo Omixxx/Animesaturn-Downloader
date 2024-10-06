@@ -1,5 +1,7 @@
 .idea
 
+.config.ini
+
 *.crawljob
 
 .DS_Store

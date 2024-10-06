@@ -1,0 +1,6 @@
+[DEFAULT]
+# Target anime page URL on website
+anime_page_url =
+
+# Concurrent downloads limit (-1 for no limit)
+concurrent_downloads_limit = 1
